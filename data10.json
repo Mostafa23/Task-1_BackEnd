@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "fname": "islam",
+    "lname": "mohamed",
+    "city": "alex",
+    "age": 22
+  },
+  {
+    "id": 2,
+    "fname": "bavely",
+    "lname": "ekramy",
+    "city": "alex",
+    "age": 22
+  },
+  {
+    "id": 3,
+    "fname": "aya",
+    "lname": "ahmed",
+    "city": "cairo",
+    "age": 22
+  },
+  {
+    "id": 5,
+    "fname": "sara",
+    "lname": "ahmed",
+    "city": "cairo",
+    "age": 22
+  },
+  {
+    "id": 6,
+    "fname": "hossam",
+    "lname": "ahmed",
+    "city": "cairo",
+    "age": 22
+  },
+  {
+    "id": 7,
+    "fname": "ahmed",
+    "lname": "ahmed",
+    "city": "cairo",
+    "age": 22
+  },
+  {
+    "id": 8,
+    "fname": "mostafa",
+    "lname": "Abdallah",
+    "city": "alfyom",
+    "age": 21
+  },
+  {
+    "id": 9,
+    "fname": "ali",
+    "lname": "ahmed",
+    "city": "cairo",
+    "age": 22
+  },
+  {
+    "id": 10,
+    "fname": "Mostafa",
+    "lname": "Abdallah",
+    "city": "cairo",
+    "age": 21
+  }
+]
